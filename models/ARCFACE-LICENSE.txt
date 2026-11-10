@@ -1,0 +1,1 @@
+ArcFace w600k_mbf from InsightFace buffalo_s (https://github.com/deepinsight/insightface). Model weights are provided by InsightFace for non-commercial research purposes only.
